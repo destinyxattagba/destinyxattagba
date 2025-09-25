@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @destinyxattagba
 - 👀 I’m interested in web development, app development, VR/XR development, and design!
 - website : https://destinyattagba.me
-- 🌱 I’m currently learning how to use flask to connect front end to backend
+- 🌱 I’m currently learning bash and C#
 - 📫 you can reach me  @destinyattagba on linkedin!
 - 😄 Pronouns: she/they
 - ⚡ Fun fact: i host a radio show!
