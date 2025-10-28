@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @destinyxattagba
-- 👀 I’m interested in web development, app development, VR/XR development, and design!
+- 👀 I’m interested in software development, web development, app development, VR/XR development, and design!
 - website : https://destinyattagba.me
 - 🌱 I’m currently learning bash and C#
 - 📫 you can reach me  @destinyattagba on linkedin!
