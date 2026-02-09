@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @destinyxattagba
 - 👀 I’m interested in software development, web development, and VR/XR development!
-- website : https://destinyattagba.me
+- website : https://destinyattagba.com
 - 🌱 I’m currently learning C, C++, and Command-line tools!
 - 📫 you can reach me  @destinyattagba on linkedin!
 - 😄 Pronouns: she/they
